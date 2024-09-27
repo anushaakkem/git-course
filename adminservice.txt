@@ -1,5 +1,5 @@
 add remove suers
-change the roles
+
 manage the database
 closing the oracle database connection
 
